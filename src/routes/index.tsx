@@ -51,7 +51,7 @@ function Header() {
           </span>
           <span className="font-display text-lg font-semibold tracking-tight">PortalFlow</span>
         </a>
-        <nav className="hidden items-center gap-8 text-sm font-medium text-muted md:flex">
+        <nav className="hidden items-center gap-8 text-sm font-medium text-muted-foreground md:flex">
           <a href="#" className="transition-colors duration-200 hover:text-foreground">Product</a>
           <a href="#" className="transition-colors duration-200 hover:text-foreground">Features</a>
           <a href="#" className="transition-colors duration-200 hover:text-foreground">Pricing</a>
@@ -90,7 +90,7 @@ function Hero() {
 
       <div className="relative mx-auto max-w-3xl px-6 py-28 text-center md:py-36">
         <span
-          className="inline-block rounded-full border border-border bg-background/60 px-3 py-1 text-xs font-medium text-muted backdrop-blur"
+          className="inline-block rounded-full border border-border bg-background/60 px-3 py-1 text-xs font-medium text-muted-foreground backdrop-blur"
           style={{ animation: "rise 0.5s cubic-bezier(0.32,0.72,0,1) both" }}
         >
           Now in public beta
@@ -102,7 +102,7 @@ function Hero() {
           A simpler way to manage your work
         </h1>
         <p
-          className="mx-auto mt-6 max-w-[46ch] text-lg text-pretty text-muted"
+          className="mx-auto mt-6 max-w-[46ch] text-lg text-pretty text-muted-foreground"
           style={{ animation: "rise 0.6s cubic-bezier(0.32,0.72,0,1) 0.2s both" }}
         >
           PortalFlow turns scattered tasks, docs, and handoffs into one calm, connected workspace your whole team actually enjoys using.
@@ -167,7 +167,7 @@ function Features() {
               {f.num}
             </div>
             <h3 className="mt-5 font-display text-lg font-semibold tracking-tight">{f.title}</h3>
-            <p className="mt-2 text-sm leading-relaxed text-pretty text-muted">{f.desc}</p>
+            <p className="mt-2 text-sm leading-relaxed text-pretty text-muted-foreground">{f.desc}</p>
           </div>
         ))}
       </div>
@@ -185,12 +185,12 @@ function Footer() {
           </span>
           <span className="font-display text-sm font-semibold tracking-tight">PortalFlow</span>
         </div>
-        <nav className="flex items-center gap-6 text-sm text-muted">
+        <nav className="flex items-center gap-6 text-sm text-muted-foreground">
           <a href="#" className="transition-colors duration-200 hover:text-foreground">Product</a>
           <a href="#" className="transition-colors duration-200 hover:text-foreground">Pricing</a>
           <a href="#" className="transition-colors duration-200 hover:text-foreground">Privacy</a>
         </nav>
-        <p className="text-xs text-muted">&copy; 2026 PortalFlow</p>
+        <p className="text-xs text-muted-foreground">&copy; 2026 PortalFlow</p>
       </div>
     </footer>
   );
