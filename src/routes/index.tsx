@@ -238,7 +238,7 @@ function Hero() {
       <div className="mx-auto grid max-w-7xl items-center gap-12 px-6 pb-20 pt-16 md:pt-24 lg:grid-cols-2">
         <div>
           <h1 className="text-5xl font-black leading-[1.08] tracking-tight md:text-6xl lg:text-[4.2rem]">
-            The UK&rsquo;s leading virtual office you can trust
+            Virtually there home
           </h1>
           <p className="mt-6 max-w-[44ch] text-lg leading-relaxed">
             A professional UK business address from &pound;15/month, set up in 5 minutes. Add a
