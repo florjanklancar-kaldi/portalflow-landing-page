@@ -171,7 +171,7 @@ function Header() {
           </a>
           <a
             href={`${SITE}/virtual-offices/`}
-            className="rounded-lg bg-primary px-5 py-2.5 text-[15px] font-extrabold text-primary-foreground transition-transform duration-200 hover:-translate-y-0.5"
+            className="whitespace-nowrap rounded-lg bg-primary px-5 py-2.5 text-[15px] font-extrabold text-primary-foreground transition-transform duration-200 hover:-translate-y-0.5"
           >
             Buy now
           </a>
