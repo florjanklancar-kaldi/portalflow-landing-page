@@ -3,23 +3,23 @@ import { createFileRoute } from "@tanstack/react-router";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "PortalFlow — A simpler way to manage your work" },
+      { title: "Virtually There — A simpler way to manage your work" },
       {
         name: "description",
         content:
-          "PortalFlow turns scattered tasks, docs, and handoffs into one calm, connected workspace your whole team actually enjoys using.",
+          "Virtually There turns scattered tasks, docs, and handoffs into one calm, connected workspace your whole team actually enjoys using.",
       },
-      { property: "og:title", content: "PortalFlow — A simpler way to manage your work" },
+      { property: "og:title", content: "Virtually There — A simpler way to manage your work" },
       {
         property: "og:description",
         content:
-          "PortalFlow turns scattered tasks, docs, and handoffs into one calm, connected workspace your whole team actually enjoys using.",
+          "Virtually There turns scattered tasks, docs, and handoffs into one calm, connected workspace your whole team actually enjoys using.",
       },
-      { name: "twitter:title", content: "PortalFlow — A simpler way to manage your work" },
+      { name: "twitter:title", content: "Virtually There — A simpler way to manage your work" },
       {
         name: "twitter:description",
         content:
-          "PortalFlow turns scattered tasks, docs, and handoffs into one calm, connected workspace your whole team actually enjoys using.",
+          "Virtually There turns scattered tasks, docs, and handoffs into one calm, connected workspace your whole team actually enjoys using.",
       },
     ],
   }),
@@ -45,11 +45,11 @@ function Header() {
   return (
     <header className="sticky top-0 z-30 border-b border-border bg-background/70 backdrop-blur-md">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-6">
-        <a href="#" className="flex items-center gap-2" aria-label="PortalFlow home">
+        <a href="#" className="flex items-center gap-2" aria-label="Virtually There home">
           <span className="grid size-7 place-items-center rounded-md bg-primary font-display text-sm font-bold text-primary-foreground">
-            P
+            V
           </span>
-          <span className="font-display text-lg font-semibold tracking-tight">PortalFlow</span>
+                   <span className="font-display text-lg font-semibold tracking-tight">Virtually There</span>
         </a>
         <nav className="hidden items-center gap-8 text-sm font-medium text-muted-foreground md:flex">
           <a href="#" className="transition-colors duration-200 hover:text-foreground">Product</a>
@@ -105,7 +105,7 @@ function Hero() {
           className="mx-auto mt-6 max-w-[46ch] text-lg text-pretty text-muted-foreground"
           style={{ animation: "rise 0.6s cubic-bezier(0.32,0.72,0,1) 0.2s both" }}
         >
-          PortalFlow turns scattered tasks, docs, and handoffs into one calm, connected workspace your whole team actually enjoys using.
+          Virtually There turns scattered tasks, docs, and handoffs into one calm, connected workspace your whole team actually enjoys using.
         </p>
         <div
           className="mt-9"
@@ -181,16 +181,16 @@ function Footer() {
       <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 px-6 py-10 sm:flex-row">
         <div className="flex items-center gap-2">
           <span className="grid size-6 place-items-center rounded-md bg-primary font-display text-xs font-bold text-primary-foreground">
-            P
+            V
           </span>
-          <span className="font-display text-sm font-semibold tracking-tight">PortalFlow</span>
+          <span className="font-display text-sm font-semibold tracking-tight">Virtually There</span>
         </div>
         <nav className="flex items-center gap-6 text-sm text-muted-foreground">
           <a href="#" className="transition-colors duration-200 hover:text-foreground">Product</a>
           <a href="#" className="transition-colors duration-200 hover:text-foreground">Pricing</a>
           <a href="#" className="transition-colors duration-200 hover:text-foreground">Privacy</a>
         </nav>
-        <p className="text-xs text-muted-foreground">&copy; 2026 PortalFlow</p>
+        <p className="text-xs text-muted-foreground">&copy; 2026 Virtually There</p>
       </div>
     </footer>
   );
