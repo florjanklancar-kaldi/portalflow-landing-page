@@ -4,11 +4,11 @@
 		.s0 { fill: #ffffff } 
 		.s1 { fill: #485565 } 
 		.s2 { fill: none;stroke: #485565;stroke-linecap: round;stroke-linejoin: round;stroke-width: 7 } 
-		.s3 { fill: none;stroke: #68e89c;stroke-linecap: round;stroke-linejoin: round;stroke-width: 7 } 
-		.s4 { fill: #68e89c } 
+		.s3 { fill: none;stroke: #4da3ff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 7 } 
+		.s4 { fill: #4da3ff } 
 		.s5 { fill: none;stroke: #485565;stroke-linejoin: round;stroke-width: 7 } 
 		.s6 { fill: none;stroke: #485565;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5 } 
-		.s7 { fill: none;stroke: #68e89c;stroke-linecap: round;stroke-linejoin: round;stroke-width: 12 } 
+		.s7 { fill: none;stroke: #4da3ff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 12 } 
 	</style>
 	<g id="White_bg">
 		<path fill-rule="evenodd" class="s0" d="m774.6 549.7c-20.3 0-36.7-14.7-36.7-32.8 0-18.1 16.4-32.8 36.7-32.8 20.3 0 36.7 14.7 36.7 32.8 0 18.1-16.4 32.8-36.7 32.8z"/>

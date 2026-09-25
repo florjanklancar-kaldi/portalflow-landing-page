@@ -8,7 +8,7 @@
       }
 
       .st5 {
-        fill: #3395ff;
+        fill: #4da3ff;
       }
 
       .st1 {
@@ -29,7 +29,7 @@
       }
 
       .st7 {
-        fill: #68e89c;
+        fill: #4da3ff;
       }
 
       .st8 {
@@ -45,7 +45,7 @@
       }
 
       .st4 {
-        stroke: #68e89c;
+        stroke: #4da3ff;
         stroke-width: 10px;
       }
 

@@ -2,11 +2,11 @@
 	<title>02_Selfie</title>
 	<style>
 		.s0 { fill: #ffffff } 
-		.s1 { fill: none;stroke: #68e89c;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5 } 
-		.s2 { fill: #68e89c } 
+		.s1 { fill: none;stroke: #4da3ff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5 } 
+		.s2 { fill: #4da3ff } 
 		.s3 { fill: none;stroke: #485565;stroke-linecap: round;stroke-linejoin: round;stroke-width: 7 } 
 		.s4 { fill: #485565 } 
-		.s5 { fill: none;stroke: #68e89c;stroke-linecap: round;stroke-linejoin: round;stroke-width: 15 } 
+		.s5 { fill: none;stroke: #4da3ff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 15 } 
 	</style>
 	<g id="white_bg">
 		<path fill-rule="evenodd" class="s0" d="m990.4 9.9l209.2 27-44 936-214.9 10.1-327.9-195 15.1-82.8 362.5-695.3z"/>
