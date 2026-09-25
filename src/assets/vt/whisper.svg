@@ -4,7 +4,7 @@
   <defs>
     <style>
       .st0 {
-        fill: #68e89c;
+        fill: #4da3ff;
       }
 
       .st1 {
@@ -26,7 +26,7 @@
       }
 
       .st3 {
-        stroke: #68e89c;
+        stroke: #4da3ff;
         stroke-width: 15px;
       }
 
