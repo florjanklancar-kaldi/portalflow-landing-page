@@ -249,7 +249,7 @@ function Hero() {
               href={`${SITE}/virtual-offices/`}
               className="inline-flex items-center gap-2 rounded-lg bg-foreground px-6 py-3.5 text-base font-extrabold text-background transition-transform duration-200 hover:-translate-y-0.5"
             >
-              View Our Locations
+              Select offices
             </a>
           </div>
         </div>
